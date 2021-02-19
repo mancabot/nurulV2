@@ -1,5 +1,5 @@
 {
-  "name": "MAMCA-BOT",
+  "name": "ZEXYBOT",
   "version": "0.0.2",
   "description": "Only termux",
   "main": "index.js",
@@ -40,10 +40,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mancabot/nurulV2.git"
+    "url": "git+https://github.com/axfcap/apbotv1.git"
   },
   "bugs": {
-    "url": "https://github.com/mancabot/nurulV2.git"
+    "url": "https://github.com/axfcap/apbotv1.git"
   },
-  "homepage": "https://github.com/mancabot/nurulV2#readme"
+  "homepage": "https://github.com/axfcap/apbotv1#readme"
 }
